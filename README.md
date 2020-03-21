@@ -283,10 +283,6 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 * Memories - Links to Instagram, Facebook which gives you history of your experiences of photos, the tagged checked in schedule by simply searching by the travel event in the app
 * Calendar view, that displays public holidays, which is useful in planning and logs your trips and sync to outlook feature 
 
-
-![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
-
-
 ### Draw backs & Obstacles: 
 
 1. Will people really link their blogs, youtubers (mukbangs), Instagram to my APP? What will they get out of it? 
@@ -294,7 +290,7 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 3. Are the restaurants comprehensive. I need to do more research on this 
 4. Up to date updates of restaurants closing etc 
 5. Have interesting topics of interests for must buys sites 
-6. APP needs to be fast and stable, users will not got back to APPs if they consistently have loading issues 
+6. App needs to be fast and stable, users will not got back to APPs if they consistently have loading issues 
 
 ### Commercialization: 
 

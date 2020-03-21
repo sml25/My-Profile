@@ -79,7 +79,8 @@ This would involve a certain extend of trouble shooting and problem solving skil
 
 **• A description (in your own words) of the skills, qualifications and experience you currently have.**
 
-I currently don't have any IT skills or experience or foundation knowledge on cloud management. My current experiences are client facing account management working with financial services solutions. I have the ability to guide and manage all support and account management related communication working as a partner to our clients in offering a value added service through increasing revenue through their existing coverage and untapped market share.
+I currently don't have any IT skills or experience or foundation knowledge on cloud management.<br/>
+My current experiences are client facing account management working with financial services solutions. I have the ability to guide and manage all support and account management related communication working as a partner to our clients in offering a value added service through increasing revenue through their existing coverage and untapped market share.<br/>
 I have also managed client systems on live solution platforms that required time sensitive solutions to queries, fixes and improvements through upgrades and employment deployed or managed environments. Posses excellent team skills working across development, IT and relevant stake holders to plan, test and deliver results as expected.
 
 **•A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.**

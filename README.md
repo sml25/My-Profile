@@ -143,6 +143,42 @@ Because I observe, listen, am a team player and like to create a positive friend
 
 Therefore, in groups I am a team player that will contribute and participate as expected through me listening to others, taking on the work load giving my feedback and bring positive energy, in any situation. 
 
+##TestColor
+
+![TestColor](https://user-images.githubusercontent.com/62459754/77228323-70969b80-6bc1-11ea-9398-b5e5c20c268f.png)
+
+​• How do you think these results may influence your behavior in a team? 
+
+
+
+My personality trait which resonates across the 3 test are: 
+
+
+
+Introverted yet can be social 
+
+Observant and listen well to all points of view, therefore a good collaborator and am empathetic 
+
+Accommodating, easygoing and carefree attitude 
+
+Don't like conflict, unfairness, but will definitely speak up when needed 
+
+Stability and being comfortable and having positive energy is important 
+
+Don't like negativity, overcoming problems and finding solutions and working with likewise ppl connects me. Although, even if not, can get along with people along as there is open communication
+
+As seen in TestColor (2) and my results as below, I get things done and find whatever means to achieve goals
+
+Testcolor results had me sway more to being extrovert and I believe that is because i can somewhat be extrovert if need be 
+
+
+
+Because I observe, listen, am a team player and like to create a positive friendly environment and I identify with the above listed. I believe these traits will influence the team with good energy, contribute to a friendly open environment. As I may not have the necessary skills but I will complete and deliver the required work taking in and giving feedback along the way. 
+
+
+
+Therefore, in groups I am a team player that will contribute and participate as expected through me listening to others, taking on the work load giving my feedback and bring positive energy, in any situation. 
+
 Footnote
 
 <a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f

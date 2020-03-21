@@ -239,13 +239,13 @@ Some people may not go to the extra mile to research but this app does it easil
 
 ### Tools and Technologies: 
 
-Software: Flutter<br/>
-Why:<br/>
+**Software**: Flutter<br/>
+**Why**:<br/>
 Flutter is a mobile app creator for Androids and iOS applications. It is made by Google and the website itself is very beautiful and fast as the website promotes it. I am not familiar in this area as I am starting new in technology but this website across the others available grabbed my attention. Its attractive, easy to comprehend and with no IT experience I felt like could take on the challenge. Flutter is an open source framework, and any developer may improve its capabilities on GitHub. 
 
 Their clients also are eBay, Sonos, Square, Capital One, Alibaba and Tencent , which are ofcourse are great references. 
 
-Resources as below: 
+**Resources as below**: 
 * [Flutter material components gallery](https://flutter.dev/docs/development/ui/widgets/material)<sup>[11](#myfootnote11)</sup>
 * [Get started with Flutter](https://flutter.dev)<sup>[12](#myfootnote12)</sup>
 * [ Codelab](https://codelabs.developers.google.com/?cat=Flutter)<sup>[13](#myfootnote13)</sup>  
@@ -254,7 +254,7 @@ Resources as below: 
 
 ### Skills Required: 
 
-The below skills are used for Flutter to achieve optimal outcomes: 
+**The below skills are used for Flutter to achieve optimal outcomes**: 
 
 Coding through Dart programming language, [Dart](https://dart.dev/platforms)<sup>[16](#myfootnote16)</sup>
 Widgets creation which is intuitive through widget catalogue 
@@ -317,7 +317,7 @@ The app can earn money from advertisements from an array of industries: 
 * I hope that the app will provide users with a joy of exploring up to date and new experiences of Korea and can make their trip a wonderful journey, wanting to come back for more. Incorporating private data and utilizing the power of the web with the latest and most up to date technologies.
 
 
-Footnote
+**Footnote**
 
 <a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f<br/>
 <a name="myfootnote2">2</a>: RIMT, viewed 21 March 2010, https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104<br/>

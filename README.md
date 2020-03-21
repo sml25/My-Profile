@@ -141,7 +141,7 @@ Therefore, in groups I am a team player that will contribute and participate as 
 
 ## Skills Self Assessment
 
-![Skills](https://user-images.githubusercontent.com/62459754/77228666-d126d800-6bc3-11ea-9f64-0e87e76b11d6.png)
+![Skills](https://user-images.githubusercontent.com/62459754/77230882-7fd21500-6bd2-11ea-83cf-ae653a4592c8.png)
 
 [SkillsAssessment.pdf](https://github.com/sml25/My-Profile/files/4363112/SkillsAssessment.pdf)
 

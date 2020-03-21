@@ -104,8 +104,11 @@ Acquiring technical skills in -  
 3. Udemy (5) [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
 4. Udemy (6) [Perl Courses](https://www.udemy.com/topic/perl/)
 
+<br><br>
 
 ## Personal Profile
+
+<br><br>
 
 ![ISFJ-A](https://user-images.githubusercontent.com/62459754/77227870-31b31680-6bbe-11ea-953b-3f5775e1b8c1.png)
 

@@ -296,7 +296,7 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 
 ### Commercialization: 
 
-The app can earn money from advertisements from an array of industries: 
+**The app can earn money from advertisements from an array of industries**: 
 
 * F&B 
 * Hotels 

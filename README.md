@@ -175,6 +175,10 @@ From the Skills Assessment test (3) my listening skills were just average, I b
 
 I believe the above factors will contribute to good dynamics in a team with my dedication and positive, energetic personality. 
 
+## Skills Assessment
+
+
+[SkillsAssessment.pdf](https://github.com/sml25/My-Profile/files/4363112/SkillsAssessment.pdf)
 
 Footnote
 

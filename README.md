@@ -60,6 +60,8 @@ After graduating from the undergraduate Bachelor of Information Technology cours
 
 ![GetImage](https://user-images.githubusercontent.com/62459754/77226942-0a0c8000-6bb7-11ea-9430-c0347a74cb80.png)
 
+Site: [Cloud Engineer](https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f)
+
 ## Interest in IT
 
 • A description (in your own words) of the position, and particularly what makes this position appealing to you. 

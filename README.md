@@ -131,7 +131,7 @@ My personality trait which resonates across the 3 test are: 
 * Stability and being comfortable and having positive energy is important 
 * Don't like negativity, overcoming problems and finding solutions and working with likewise ppl connects me. Although, even if not, can get along with people along as there is open communication
 
-As seen in [TestColor](https://www.testcolor.com/)<sup>[8](#myfootnote8)</sup> and my results as below, I get things done and find whatever means to achieve goals
+As seen in [TestColor](https://www.testcolor.com/)<sup>[8](#myfootnote8)</sup> and my results as below, I get things done and find whatever means to achieve goals.
 
 Testcolor results had me sway more to being extrovert and I believe that is because i can somewhat be extrovert if need be.
 

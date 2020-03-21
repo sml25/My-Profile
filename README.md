@@ -133,7 +133,7 @@ My personality trait which resonates across the 3 test are: 
 
 As seen in [TestColor](https://www.testcolor.com/)<sup>[8](#myfootnote8)</sup> and my results as below, I get things done and find whatever means to achieve goals
 
-Testcolor results had me sway more to being extrovert and I believe that is because i can somewhat be extrovert if need be 
+Testcolor results had me sway more to being extrovert and I believe that is because i can somewhat be extrovert if need be.
 
 Because I observe, listen, am a team player and like to create a positive friendly environment and I identify with the above listed. I believe these traits will influence the team with good energy, contribute to a friendly open environment. As I may not have the necessary skills but I will complete and deliver the required work taking in and giving feedback along the way. 
 

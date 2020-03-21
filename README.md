@@ -6,17 +6,11 @@
 </p>
 
 **Name**: Kyla Ng 
-
 **Email**: kng@rmit.edu.au 
-
 **Nationality**: Australian 
-
 **Culture**: Chinese 
-
 **Education**: University of Sydney / University of New England - BA (deferred my studies) 
-
 **Languages Spoken**: English, Cantonese, Mandarin, Korean (Basic) 
-
 **Interests**:  
 
 * **Wine** – Completed level 1 AWSEC to get the foundation on wine in order to expand my current knowledge and tastes across different grapes, regions and types of wine to refine my preferences and to be able recognize the wide choices available.
@@ -88,13 +82,13 @@ This would involve a certain extend of trouble shooting and problem solving skil
 I currently don't have any IT skills or experience or foundation knowledge on cloud management. My current experiences are client facing account management working with financial services solutions. I have the ability to guide and manage all support and account management related communication working as a partner to our clients in offering a value added service through increasing revenue through their existing coverage and untapped market share.
 I have also managed client systems on live solution platforms that required time sensitive solutions to queries, fixes and improvements through upgrades and employment deployed or managed environments. Posses excellent team skills working across development, IT and relevant stake holders to plan, test and deliver results as expected.
 
-**•A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can. 
+**•A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.**
 
 Firstly, I will need to obtain an undergraduate degree in Information Technology as a tertiary education attainment. This will give me the fundamental basis of the academic credentials needed in the industry. 
 
 Trouble shooting and problem solving skills I believe will come with experience, as you need to be able to understand the products suite, environment and client environment for any issues or queries that may arise. Also, to think outside the box and provide work arounds. 
 
-Acquiring technical skills in -  
+**Acquiring technical skills in -**
 * Knowledge of the Software Development Life Cycle (SDLC) and continuous integration 
 * Infrastructure code such as Jenkins, Puppet, Ansible and Cloud formation. Scripting experience (Python, Bash, Shell, Perl etc.) 
 * Open Source Code
@@ -202,6 +196,8 @@ I also like to be organized when I travel and having my own itinerary builder w
 
 Stats: Increase Spending trend of travelling(10) Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
 
+![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
+
 ### Description: 
 
 For this assignment I will create a niche app on a specific country only as first steps. 
@@ -269,6 +265,8 @@ Actions using actions.xml in your APK, built in intense search features 
 There are a lot of resources available on the website.
 Software and hardware are via Flutter using Dart code.
 
+![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
+
 Extra Feature called **"build your itinerary"** which can be a private or public schedule which you can share with other users especially useful for people going on the same trip, or it can just be an itinerary you want to share with friends or acquaintances in general. I am always asked by friends and colleague to send my MUST EAT AND DOS LIST.  
 
 **Having a feature like this:**
@@ -281,6 +279,9 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 * Notes pages – user can record anything else e.g. travel check list to bring, any expenses to record 
 * Memories - Links to Instagram, Facebook which gives you history of your experiences of photos, the tagged checked in schedule by simply searching by the travel event in the app
 * Calendar view, that displays public holidays, which is useful in planning and logs your trips and sync to outlook feature 
+
+
+![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
 
 
 ### Draw backs & Obstacles: 

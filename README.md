@@ -133,7 +133,7 @@ My personality trait which resonates across the 3 test are: 
 
 As seen in [TestColor](https://www.testcolor.com/)<sup>[8](#myfootnote8)</sup> and my results as below, I get things done and find whatever means to achieve goals.
 
-Testcolor results had me sway more to being extrovert and I believe that is because i can somewhat be extrovert if need be.
+Testcolor results had me sway more to being extrovert and I believe that is because I can somewhat be extrovert if need be.
 
 Because I observe, listen, am a team player and like to create a positive friendly environment and I identify with the above listed. I believe these traits will influence the team with good energy, contribute to a friendly open environment. As I may not have the necessary skills but I will complete and deliver the required work taking in and giving feedback along the way. 
 
@@ -312,7 +312,9 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 * Introduce the general public to Korea for those not so well acquainted with this country 
 * Key is voting and rating as this provides the feedback from the general public 
 * Not only useful for building a personal itinerary but just to keep abreast of the what's popular and new in Korea 
-* I hope that the app will provide users with a joy of exploring up to date and new experiences of Korea and can make their trip a wonderful journey, wanting to come back for more. Incorporating private data and utilizing the power of the web with the latest and most up to date technologies.
+
+<br/>
+I hope that the app will provide users with a joy of exploring up to date and new experiences of Korea and can make their trip a wonderful journey, wanting to come back for more. Incorporating private data and utilizing the power of the web with the latest and most up to date technologies.
 
 <br/>
 <br/>

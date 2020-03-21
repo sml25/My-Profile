@@ -290,7 +290,7 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 3. Are the restaurants comprehensive. I need to do more research on this 
 4. Up to date updates of restaurants closing etc 
 5. Have interesting topics of interests for must buys sites 
-6. App needs to be fast and stable, users will not got back to APPs if they consistently have loading issues 
+6. App needs to be fast and stable, users will not got back to Apps if they consistently have loading issues 
 
 ### Commercialization: 
 

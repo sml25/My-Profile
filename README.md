@@ -200,10 +200,7 @@ I also like to be organized when I travel and having my own itinerary builder w
 
 ![Stats](https://user-images.githubusercontent.com/62459754/77229202-6f686d00-6bc7-11ea-92e5-15cf6642aa6c.jpg)
 
-Stats: Increase Spending trend of travelling, (10) Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
-
-![image](https://images.unsplash.com/photo-1544094552-172c2153499e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
-![image](https://www.freewebheaders.com/wp-content/gallery/computer/thumbs/thumbs_digital-tablet-with-business-plan-and-cup-of-coffee-web-header.jpg)
+Stats: Increase Spending trend of travelling(10) Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
 
 ### Description: 
 
@@ -252,25 +249,40 @@ Flutter is a mobile app creator for Androids and iOS applications. It is made b
 Their clients also are eBay, Sonos, Square, Capital One, Alibaba and Tencent , which are ofcourse are great references. 
 
 Resources as below: 
-Flutter material components gallery - (2) https://flutter.dev/docs/development/ui/widgets/material )
-Get started with Flutter - (3) https://flutter.dev 
-Codelab - (4) https://codelabs.developers.google.com/?cat=Flutter 
-Discussion Board - (5) https://groups.google.com/forum/#!forum/flutter-dev 
-Subscribe to Google Developers channel - (6) https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1 )
+* [Flutter material components gallery](https://flutter.dev/docs/development/ui/widgets/material) (11)
+* [Get started with Flutter](https://flutter.dev) (12)  
+* [ Codelab](https://codelabs.developers.google.com/?cat=Flutter) (13)  
+* [Discussion Board](https://groups.google.com/forum/#!forum/flutter-dev ) (14) 
+* [Subscribe to Google Developers channel](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1) (15)
 
 ### Skills Required: 
 
 The below skills are used for Flutter to achieve optimal outcomes: 
 
-Coding through Dart programming language, Dart (7) https://dart.dev/platforms
+Coding through Dart programming language, [Dart](https://dart.dev/platforms) (16) 
 Widgets creation which is intuitive through widget catalogue 
 Runs Pythons https server for images  - across any server on the net 
-Google Code lab provides quite a lot of guides and tutorials on google map integration, photo sharing etc. which are essential in my travel app Codelabs (8) https://codelabs.developers.google.com/?cat=Flutter 
+Google Code lab provides quite a lot of guides and tutorials on google map integration, photo sharing etc. which are essential in my travel app [Codelabs](https://codelabs.developers.google.com/?cat=Flutter) (17)  
 Google assistant for predictive analysis based off searching to load related pages 
 Actions using actions.xml in your APK, built in intense search features 
 
 There are a lot of resources available on the website.
 Software and hardware are via Flutter using Dart code.
+
+Extra Feature called **"build your itinerary"** which can be a private or public schedule which you can share with other users especially useful for people going on the same trip, or it can just be an itinerary you want to share with friends or acquaintances in general. I am always asked by friends and colleague to send my MUST EAT AND DOS LIST.  
+
+**Having a feature like this:**
+
+* Records my memory of the trip using a template, linking in my social media posts 
+* Plans the trip with day 1, day 2 entries with maps and times and the sequence. Tagging feature of date and time. It also gives a visualization if the restaurants and sites are in proximity of each other with smart planning on that day the trip is planned. So, you can easily re-shuffle if need be
+* Distance calculation as by Google tool by car, walk so you know you have planned well 
+* Easily accessible via the app offline too, so you can display with no internet and can sync back up when there is internet * 
+* Have local language equivalent storage for restaurant/site names and addresses, so you can easily show taxi drivers of where you want to go. No need to search again  but stored off line
+* Notes pages – user can record anything else e.g. travel check list to bring, any expenses to record 
+* Memories - Links to Instagram, Facebook which gives you history of your experiences of photos, the tagged checked in schedule by simply searching by the travel event in the app
+* Calendar view, that displays public holidays, which is useful in planning and logs your trips and sync to outlook feature 
+
+
 
 
 Footnote

@@ -33,7 +33,6 @@
 
 ![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
 
-
 ## Interest in IT
 
 **What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).** 
@@ -58,11 +57,15 @@ I found the Online University Australia (OUA) site and it was very easy to use a
 
 After graduating from the undergraduate Bachelor of Information Technology course I expect to have learnt the skills and knowledge on IT infrastructure, environments, process and delivery of developing, maintaining and growing a solution. I would also like to know more about the specialized diverse fields of IT on big data, AI, automation, corporate, banking finance solutions through to corporate and personal use e.g. apps and gaming etc. Ultimately, I would like to be specialized in an area of IT and be able to work in IT related role in the future. 
 
+
+## Ideal Job
+
+
 ![GetImage](https://user-images.githubusercontent.com/62459754/77226942-0a0c8000-6bb7-11ea-9430-c0347a74cb80.png)
 
 Site: [Cloud Engineer](https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f)
 
-## Interest in IT
+
 
 **• A description (in your own words) of the position, and particularly what makes this position appealing to you.** 
 
@@ -102,8 +105,9 @@ Acquiring technical skills in -  
 4. Udemy (6) [Perl Courses](https://www.udemy.com/topic/perl/)
 
 
+## Personal Profile
 
-
+![ISFJ-A](https://user-images.githubusercontent.com/62459754/77227870-31b31680-6bbe-11ea-953b-3f5775e1b8c1.png)
 
 
 

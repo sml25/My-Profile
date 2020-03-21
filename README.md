@@ -5,13 +5,13 @@
   <img width="460" height="650" src="https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
 </p>
 
-**Name**: Kyla Ng 
-**Email**: kng@rmit.edu.au 
-**Nationality**: Australian 
-**Culture**: Chinese 
-**Education**: University of Sydney / University of New England - BA (deferred my studies) 
-**Languages Spoken**: English, Cantonese, Mandarin, Korean (Basic) 
-**Interests**:  
+**Name**: Kyla Ng<br/>
+**Email**: kng@rmit.edu.au<br/>
+**Nationality**: Australian<br/>
+**Culture**: Chinese<br/>
+**Education**: University of Sydney / University of New England - BA (deferred my studies)<br/>
+**Languages Spoken**: English, Cantonese, Mandarin, Korean (Basic)<br/>
+**Interests**:<br/>
 
 * **Wine** – Completed level 1 AWSEC to get the foundation on wine in order to expand my current knowledge and tastes across different grapes, regions and types of wine to refine my preferences and to be able recognize the wide choices available.
 
@@ -63,7 +63,7 @@ Site: [Cloud Engineer](https://www.seek.com.au/job/41136695?type=standout#search
 
 **• A description (in your own words) of the position, and particularly what makes this position appealing to you.** 
 
-This job <sup>[1](#myfootnote1)</sup> is appealing and of interest to me because the employer is a leading financial services organization. My current job is with a financial services provider so I have background and knowledge in the industry.
+This job<sup>[1](#myfootnote1)</sup> is appealing and of interest to me because the employer is a leading financial services organization. My current job is with a financial services provider so I have background and knowledge in the industry.
 
 Organizations are moving to cloud based servers vs their own private company servers due to general maintenance and hosting security. The job sounds challenging and interesting as you are part of the team that designs, deploys and migrate applications onto the cloud.  
 
@@ -274,7 +274,7 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 * Records my memory of the trip using a template, linking in my social media posts 
 * Plans the trip with day 1, day 2 entries with maps and times and the sequence. Tagging feature of date and time. It also gives a visualization if the restaurants and sites are in proximity of each other with smart planning on that day the trip is planned. So, you can easily re-shuffle if need be
 * Distance calculation as by Google tool by car, walk so you know you have planned well 
-* Easily accessible via the app offline too, so you can display with no internet and can sync back up when there is internet * 
+* Easily accessible via the app offline too, so you can display with no internet and can sync back up when there is internet
 * Have local language equivalent storage for restaurant/site names and addresses, so you can easily show taxi drivers of where you want to go. No need to search again  but stored off line
 * Notes pages – user can record anything else e.g. travel check list to bring, any expenses to record 
 * Memories - Links to Instagram, Facebook which gives you history of your experiences of photos, the tagged checked in schedule by simply searching by the travel event in the app
@@ -321,34 +321,4 @@ Footnote
 <a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sml25/myprofile-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

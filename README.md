@@ -166,9 +166,13 @@ From the [Skills Assessment test](https://www.skillsyouneed.com/quiz/343479?newt
 
 I believe the above factors will contribute to good dynamics in a team with my dedication and positive, energetic personality. 
 
+# Project Idea
 
+## KoreaSmiling
 
-
+<p align="center">
+  <img width="800" height="350" src="https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</p>                                     
 
 Footnote
 

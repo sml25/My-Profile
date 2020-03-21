@@ -198,9 +198,15 @@ I believe my idea of an app that brings to you the ease of searching for a city
 
 I also like to be organized when I travel and having my own itinerary builder within the app would make it so much more easier and convenient to store and access the information.
 
-Stats as below Increase Spending trend of travelling, (10) Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
-
 ![Stats](https://user-images.githubusercontent.com/62459754/77229202-6f686d00-6bc7-11ea-92e5-15cf6642aa6c.jpg)
+
+Stats: Increase Spending trend of travelling, (10) Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
+
+<p align="center">
+  <img width="600" height="350" src="https://images.unsplash.com/photo-1544094552-172c2153499e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</p>  
+
+
 
 ### Description: 
 

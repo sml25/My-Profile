@@ -319,21 +319,21 @@ The app can earn money from advertisements from an array of industries: 
 Footnote
 
 <a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f
-<a name="myfootnote2">1</a>: RIMT, viewed 21 March 2010, https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104
-<a name="myfootnote13">1</a>: RIMT, viewed 21 March 2010, https://www.open.edu.au/subjects/rmit-university-scripting-language-programming-rmi-cpt223   
-<a name="myfootnote4">1</a>:Udemy, viewed 21 March 2020,  https://www.udemy.com/course/complete-python-bootcamp/
-<a name="myfootnote5">1</a>: Udemy, viewed 21 March 2020, https://www.udemy.com/course/bash-scripting/
-<a name="myfootnote6">1</a>: Udemy, viewed 21 March 2020, https://www.udemy.com/topic/perl/
-<a name="myfootnote7">1</a>: 16Personalities, viewed 15 March, https://www.16personalities.com/profiles/5a09688ae1be3  
-<a name="myfootnote8">1</a>: TestColor, viewed 15 March 2020, http://www.testcolor.com/personalitytest/profil2.php  
-<a name="myfootnote9">1</a>:Interpersonal Skills Self Assessment, viewed 15 March 2020, https://www.skillsyouneed.com/quiz/343479?newtest=Y
-<a name="myfootnote10">1</a>: Statista, views 15 March 2020, https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/
-<a name="myfootnote11">1</a>: Flutter, viewed 20 March 2020, https://flutter.dev/docs/development/ui/widgets/material
-<a name="myfootnote12">1</a>: Flutter, viewed 20 March 2020, https://flutter.dev
-<a name="myfootnote13">1</a>: Codelabs, viewed 20 March 2020, https://codelabs.developers.google.com/?cat=Flutter
-<a name="myfootnote14">1</a>: Google, viewed 20 March 2002, https://groups.google.com/forum/#!forum/flutter-dev
-<a name="myfootnote15">1</a>: Google, viewed 20 March 2010, https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1
-<a name="myfootnote16">1</a>: Dart, viewed 20 March 2020,  https://dart.dev/platforms
-<a name="myfootnote17">1</a>: Codelabs, viewed 20 March 2020, https://codelabs.developers.google.com/?cat=Flutter
+<a name="myfootnote2">2</a>: RIMT, viewed 21 March 2010, https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104
+<a name="myfootnote13">3</a>: RIMT, viewed 21 March 2010, https://www.open.edu.au/subjects/rmit-university-scripting-language-programming-rmi-cpt223   
+<a name="myfootnote4">4</a>:Udemy, viewed 21 March 2020,  https://www.udemy.com/course/complete-python-bootcamp/
+<a name="myfootnote5">5</a>: Udemy, viewed 21 March 2020, https://www.udemy.com/course/bash-scripting/
+<a name="myfootnote6">6</a>: Udemy, viewed 21 March 2020, https://www.udemy.com/topic/perl/
+<a name="myfootnote7">7</a>: 16Personalities, viewed 15 March, https://www.16personalities.com/profiles/5a09688ae1be3  
+<a name="myfootnote8">8</a>: TestColor, viewed 15 March 2020, http://www.testcolor.com/personalitytest/profil2.php  
+<a name="myfootnote9">9</a>:Interpersonal Skills Self Assessment, viewed 15 March 2020, https://www.skillsyouneed.com/quiz/343479?newtest=Y
+<a name="myfootnote10">10</a>: Statista, views 15 March 2020, https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/
+<a name="myfootnote11">11</a>: Flutter, viewed 20 March 2020, https://flutter.dev/docs/development/ui/widgets/material
+<a name="myfootnote12">12</a>: Flutter, viewed 20 March 2020, https://flutter.dev
+<a name="myfootnote13">13</a>: Codelabs, viewed 20 March 2020, https://codelabs.developers.google.com/?cat=Flutter
+<a name="myfootnote14">14</a>: Google, viewed 20 March 2002, https://groups.google.com/forum/#!forum/flutter-dev
+<a name="myfootnote15">15</a>: Google, viewed 20 March 2010, https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1
+<a name="myfootnote16">16</a>: Dart, viewed 20 March 2020,  https://dart.dev/platforms
+<a name="myfootnote17">17</a>: Codelabs, viewed 20 March 2020, https://codelabs.developers.google.com/?cat=Flutter
 
   

@@ -29,7 +29,7 @@
 
 * **Reading**: In order to get down time from watching dramas, movies and Netflix, or from working on my PC/laptop and constant looking at my phone, I enjoy reading fictional/non fictional books of interest on my kindle.
 
-![image](https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+![image](https://www.freewebheaders.com/wp-content/gallery/computer/dynamic/hi-tech-computer-keyboard-blue-red-website-header.jpg-nggid044241-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg)
 
 ### Markdown
 

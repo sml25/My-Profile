@@ -93,10 +93,10 @@ Trouble shooting and problem solving skills I believe will come with experience,
 * Infrastructure code such as Jenkins, Puppet, Ansible and Cloud formation. Scripting experience (Python, Bash, Shell, Perl etc.) 
 * Open Source Code
 * These expertise skills I hope can be learned within the course or enroll in courses specific to the skill like the below: 
-1. RMIT(2) - [AI Programming with Python](https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104) or (3) [Scripting language](https://www.open.edu.au/subjects/rmit-university-scripting-language-programming-rmi-cpt223)  
-2. Udemy (4) [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/ )
-3. Udemy (5) [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
-4. Udemy (6) [Perl Courses](https://www.udemy.com/topic/perl/)
+1. RMIT<sup>[2](#myfootnote2)</sup>,<sup>[3](#myfootnote3)</sup> - [AI Programming with Python](https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104) or [Scripting language](https://www.open.edu.au/subjects/rmit-university-scripting-language-programming-rmi-cpt223)  
+2. Udemy<sup>[4](#myfootnote4)</sup> [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/ )
+3. Udemy<sup>[5](#myfootnote5)</sup> [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
+4. Udemy<sup>[6](#myfootnote6)</sup> [Perl Courses](https://www.udemy.com/topic/perl/)
 
 # Personal Profile
 
@@ -110,7 +110,7 @@ The test results allowed me to understand myself more and made me realize there
 
 I came to a realization that knowing your personality and knowing others helps with the relationship and communication method. 
 
-It really made me think that about how I could improve, grow and accept my flaws. I actually took the test a few times, to see if I would get the same results and I did. I found especially the Myers-Brigg test (7) [My MBTI](https://www.16personalities.com/profiles/5a09688ae1be3) interesting, and I was able to explore my character within my strengths and weaknesses, Romantic Relationships, Friendships, Parenthood, Career Paths and Work place habits, which are all areas of interest. The sections were not too long to read and concise. 
+It really made me think that about how I could improve, grow and accept my flaws. I actually took the test a few times, to see if I would get the same results and I did. I found especially the Myers-Brigg test<sup>[7](#myfootnote7)</sup> [My MBTI](https://www.16personalities.com/profiles/5a09688ae1be3) interesting, and I was able to explore my character within my strengths and weaknesses, Romantic Relationships, Friendships, Parenthood, Career Paths and Work place habits, which are all areas of interest. The sections were not too long to read and concise. 
 
 I believe the most important take away from these results is that based on our likes, morals, preferences it grounds us and allows us to grow, work on the best method of communication and also awakens us to change. 
 
@@ -130,7 +130,7 @@ My personality trait which resonates across the 3 test are: 
 * Stability and being comfortable and having positive energy is important 
 * Don't like negativity, overcoming problems and finding solutions and working with likewise ppl connects me. Although, even if not, can get along with people along as there is open communication
 
-As seen in [TestColor](https://www.testcolor.com/) (8) and my results as below, I get things done and find whatever means to achieve goals
+As seen in [TestColor](https://www.testcolor.com/)<sup>[8](#myfootnote8)</sup> and my results as below, I get things done and find whatever means to achieve goals
 
 Testcolor results had me sway more to being extrovert and I believe that is because i can somewhat be extrovert if need be 
 
@@ -156,7 +156,7 @@ Therefore, what this test meant to me when form a team, I would take into accoun
 * Team dynamics - It would be good to get a mix of characters, therefore we can leverage the different skills and experience in order to utilize our advantages. 
 * I am empathetic, poses higher emotional intelligence, therefore am flexible and understanding 
 
-From the [Skills Assessment test](https://www.skillsyouneed.com/quiz/343479?newtest=Y ) (9) my listening skills were just average, I believe I can improve my listening skills since I get along well with teams
+From the [Skills Assessment test](https://www.skillsyouneed.com/quiz/343479?newtest=Y )<sup>[9](#myfootnote9)</sup>my listening skills were just average, I believe I can improve my listening skills since I get along well with teams
 
 I believe the above factors will contribute to good dynamics in a team with my dedication and positive, energetic personality. 
 
@@ -194,7 +194,7 @@ I also like to be organized when I travel and having my own itinerary builder w
 
 ![Stats](https://user-images.githubusercontent.com/62459754/77229202-6f686d00-6bc7-11ea-92e5-15cf6642aa6c.jpg)
 
-Stats: Increase Spending trend of travelling(10) Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
+Stats: Increase Spending trend of travelling<sup>[10](#myfootnote10)</sup> Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
 
 ![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
 
@@ -245,20 +245,20 @@ Flutter is a mobile app creator for Androids and iOS applications. It is made b
 Their clients also are eBay, Sonos, Square, Capital One, Alibaba and Tencent , which are ofcourse are great references. 
 
 Resources as below: 
-* [Flutter material components gallery](https://flutter.dev/docs/development/ui/widgets/material) (11)
-* [Get started with Flutter](https://flutter.dev) (12)  
-* [ Codelab](https://codelabs.developers.google.com/?cat=Flutter) (13)  
-* [Discussion Board](https://groups.google.com/forum/#!forum/flutter-dev ) (14) 
-* [Subscribe to Google Developers channel](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1) (15)
+* [Flutter material components gallery](https://flutter.dev/docs/development/ui/widgets/material)<sup>[11](#myfootnote11)</sup>
+* [Get started with Flutter](https://flutter.dev)<sup>[12](#myfootnote12)</sup>
+* [ Codelab](https://codelabs.developers.google.com/?cat=Flutter)<sup>[13](#myfootnote13)</sup>  
+* [Discussion Board](https://groups.google.com/forum/#!forum/flutter-dev )<sup>[14](#myfootnote14)</sup>
+* [Subscribe to Google Developers channel](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1)<sup>[15](#myfootnote1)</sup>
 
 ### Skills Required: 
 
 The below skills are used for Flutter to achieve optimal outcomes: 
 
-Coding through Dart programming language, [Dart](https://dart.dev/platforms) (16) 
+Coding through Dart programming language, [Dart](https://dart.dev/platforms)<sup>[16](#myfootnote16)</sup>
 Widgets creation which is intuitive through widget catalogue 
 Runs Pythons https server for images  - across any server on the net 
-Google Code lab provides quite a lot of guides and tutorials on google map integration, photo sharing etc. which are essential in my travel app [Codelabs](https://codelabs.developers.google.com/?cat=Flutter) (17)  
+Google Code lab provides quite a lot of guides and tutorials on google map integration, photo sharing etc. which are essential in my travel app [Codelabs](https://codelabs.developers.google.com/?cat=Flutter)<sup>[17](#myfootnote17)</sup>
 Google assistant for predictive analysis based off searching to load related pages 
 Actions using actions.xml in your APK, built in intense search features 
 
@@ -319,6 +319,21 @@ The app can earn money from advertisements from an array of industries: 
 Footnote
 
 <a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f
+<a name="myfootnote2">1</a>: RIMT, viewed 21 March 2010, https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104
+<a name="myfootnote13">1</a>: RIMT, viewed 21 March 2010, https://www.open.edu.au/subjects/rmit-university-scripting-language-programming-rmi-cpt223   
+<a name="myfootnote4">1</a>:Udemy, viewed 21 March 2020,  https://www.udemy.com/course/complete-python-bootcamp/
+<a name="myfootnote5">1</a>: Udemy, viewed 21 March 2020, https://www.udemy.com/course/bash-scripting/
+<a name="myfootnote6">1</a>: Udemy, viewed 21 March 2020, https://www.udemy.com/topic/perl/
+<a name="myfootnote7">1</a>: 16Personalities, viewed 15 March, https://www.16personalities.com/profiles/5a09688ae1be3  
+<a name="myfootnote8">1</a>: TestColor, viewed 15 March 2020, http://www.testcolor.com/personalitytest/profil2.php  
+<a name="myfootnote9">1</a>:Interpersonal Skills Self Assessment, viewed 15 March 2020, https://www.skillsyouneed.com/quiz/343479?newtest=Y
+<a name="myfootnote10">1</a>: Statista, views 15 March 2020, https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/
+<a name="myfootnote11">1</a>: Flutter, viewed 20 March 2020, https://flutter.dev/docs/development/ui/widgets/material
+<a name="myfootnote12">1</a>: Flutter, viewed 20 March 2020, https://flutter.dev
+<a name="myfootnote13">1</a>: Codelabs, viewed 20 March 2020, https://codelabs.developers.google.com/?cat=Flutter
+<a name="myfootnote14">1</a>: Google, viewed 20 March 2002, https://groups.google.com/forum/#!forum/flutter-dev
+<a name="myfootnote15">1</a>: Google, viewed 20 March 2010, https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1
+<a name="myfootnote16">1</a>: Dart, viewed 20 March 2020,  https://dart.dev/platforms
+<a name="myfootnote17">1</a>: Codelabs, viewed 20 March 2020, https://codelabs.developers.google.com/?cat=Flutter
 
-
-
+  

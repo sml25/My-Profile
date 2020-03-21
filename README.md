@@ -98,7 +98,7 @@ Acquiring technical skills in -  
 * Infrastructure code such as Jenkins, Puppet, Ansible and Cloud formation. Scripting experience (Python, Bash, Shell, Perl etc.) 
 * Open Source Code
 * These expertise skills I hope can be learned within the course or enroll in courses specific to the skill like the below: 
-1. RMIT(2) - [AI Programming with Python](https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104)or (3) [Scripting language](https://www.open.edu.au/subjects/rmit-university-scripting-language-programming-rmi-cpt223)  
+1. RMIT(2) - [AI Programming with Python](https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104) or (3) [Scripting language](https://www.open.edu.au/subjects/rmit-university-scripting-language-programming-rmi-cpt223)  
 2. Udemy (4) [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/ )
 3. Udemy (5) [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
 4. Udemy (6) [Perl Courses](https://www.udemy.com/topic/perl/)

@@ -162,7 +162,7 @@ Therefore, what this test meant to me when form a team, I would take into accoun
 * Team dynamics - It would be good to get a mix of characters, therefore we can leverage the different skills and experience in order to utilize our advantages. 
 * I am empathetic, poses higher emotional intelligence, therefore am flexible and understanding 
 
-From the Skills Assessment test (9) my listening skills were just average, I believe I can improve my listening skills since I get along well with teams
+From the [Skills Assessment test](https://www.skillsyouneed.com/quiz/343479?newtest=Y ) (9) my listening skills were just average, I believe I can improve my listening skills since I get along well with teams
 
 I believe the above factors will contribute to good dynamics in a team with my dedication and positive, energetic personality. 
 

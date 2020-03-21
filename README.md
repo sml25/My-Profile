@@ -58,7 +58,7 @@ I found the Online University Australia (OUA) site and it was very easy to use a
 
 After graduating from the undergraduate Bachelor of Information Technology course I expect to have learnt the skills and knowledge on IT infrastructure, environments, process and delivery of developing, maintaining and growing a solution. I would also like to know more about the specialized diverse fields of IT on big data, AI, automation, corporate, banking finance solutions through to corporate and personal use e.g. apps and gaming etc. Ultimately, I would like to be specialized in an area of IT and be able to work in IT related role in the future. 
 
-
+![GetImage](https://user-images.githubusercontent.com/62459754/77226942-0a0c8000-6bb7-11ea-9430-c0347a74cb80.png)
 
 ## Interest in IT
 

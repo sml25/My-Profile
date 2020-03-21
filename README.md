@@ -202,6 +202,42 @@ Stats as below Increase Spending trend of travelling, (10) Source [Statista](htt
 
 ![Stats](https://user-images.githubusercontent.com/62459754/77229202-6f686d00-6bc7-11ea-92e5-15cf6642aa6c.jpg)
 
+### Description: 
+
+For this assignment I will create a niche app on a specific country only as first steps. 
+
+Please see below my project plan: 
+
+**Name of app**: KoreaSmiling<br/>
+**Country of travel**: Korea<br/>
+**Why Korea**: The country I have chosen is Korea, as I have extensive knowledge of this country through the culture, KWave (Kpop and Kdrama), also studied the language for 2 years. I travel to Korea annually and try to do it more often if I can<br/>
+**What does the app do**:<br/>
+The app will introduce users to 3 main areas:<br/>
+1. Restaurants 
+2. Must buys for souvenirs and where to get them 
+3. Sights and Must do 
+
+**App Features:** 
+
+* Check in or comment - Users can bookmark their site pages to our app or it can be done from our app to their sites 
+* Google maps, weather integration 
+* Search by keyword, categories and in app use of hashtags 
+* Users can check in where they have bought their must buys and rate it,  
+* Link their blogs, Instagram, FB, YouTube, etc. 
+* SAVE as a LIST - want to go, or my favorites 
+* Alerts from popular social media accounts (set at 1million followers or above), or posts a certain number of videos for example and users you follow 
+* Highlights or filtering by user groups - of popular social media accounts (set at 1 million followers or above), or posts a certain number of videos for example and users you follow 
+* Voting, have you experienced this and rate?  
+
+Currently google maps does this to a certain extent, but I believe it is much more powerful to bring in reviews, check-ins associated with instagram, youtube videos or blogs on that restaurant as it shows a trend. In google, I still need to click into every review and determine if its good or not, although there is an overall and individual rating does help.  
+
+But, I then do further research on any bloggers, youtubers have made comments and reviews as well, which takes a long time.  You would normally record, bookmark or copy and paste links manually to a word doc or similar for example.  
+
+Some people may not go to the extra mile to research but this app does it easily for you.  
+
+
+
+
 
 Footnote
 

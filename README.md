@@ -316,7 +316,10 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 * Not only useful for building a personal itinerary but just to keep abreast of the what's popular and new in Korea 
 * I hope that the app will provide users with a joy of exploring up to date and new experiences of Korea and can make their trip a wonderful journey, wanting to come back for more. Incorporating private data and utilizing the power of the web with the latest and most up to date technologies.
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 **Footnote**
 
 <a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f<br/>

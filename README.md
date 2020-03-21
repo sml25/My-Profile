@@ -211,7 +211,8 @@ Please see below my project plan: 
 **Name of app**: KoreaSmiling<br/>
 **Country of travel**: Korea<br/>
 **Why Korea**: The country I have chosen is Korea, as I have extensive knowledge of this country through the culture, KWave (Kpop and Kdrama), also studied the language for 2 years. I travel to Korea annually and try to do it more often if I can<br/>
-**What does the app do**:<br/>
+**What does the app do**:
+<br><br>
 The app will introduce users to 3 main areas:<br/>
 1. Restaurants 
 2. Must buys for souvenirs and where to get them 
@@ -235,8 +236,38 @@ But, I then do further research on any bloggers, youtubers have made comments an
 
 Some people may not go to the extra mile to research but this app does it easily for you.  
 
+<p align="center">
+  <img width="800" height="350" src="https://images.unsplash.com/photo-1528795259021-d8c86e14354c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80">
+</p>                                     
 
+### Tools and Technologies: 
 
+Software: Flutter<br/>
+Why:<br/>
+Flutter is a mobile app creator for Androids and iOS applications. It is made by Google and the website itself is very beautiful and fast as the website promotes it. I am not familiar in this area as I am starting new in technology but this website across the others available grabbed my attention. Its attractive, easy to comprehend and with no IT experience I felt like could take on the challenge. Flutter is an open source framework, and any developer may improve its capabilities on GitHub. 
+
+Their clients also are eBay, Sonos, Square, Capital One, Alibaba and Tencent , which are ofcourse are great references. 
+
+Resources as below: 
+Flutter material components gallery - (2) https://flutter.dev/docs/development/ui/widgets/material )
+Get started with Flutter - (3) https://flutter.dev 
+Codelab - (4) https://codelabs.developers.google.com/?cat=Flutter 
+Discussion Board - (5) https://groups.google.com/forum/#!forum/flutter-dev 
+Subscribe to Google Developers channel - (6) https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1 )
+
+### Skills Required: 
+
+The below skills are used for Flutter to achieve optimal outcomes: 
+
+Coding through Dart programming language, Dart (7) https://dart.dev/platforms
+Widgets creation which is intuitive through widget catalogue 
+Runs Pythons https server for images  - across any server on the net 
+Google Code lab provides quite a lot of guides and tutorials on google map integration, photo sharing etc. which are essential in my travel app Codelabs (8) https://codelabs.developers.google.com/?cat=Flutter 
+Google assistant for predictive analysis based off searching to load related pages 
+Actions using actions.xml in your APK, built in intense search features 
+
+There are a lot of resources available on the website.
+Software and hardware are via Flutter using Dart code.
 
 
 Footnote

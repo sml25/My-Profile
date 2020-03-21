@@ -27,6 +27,8 @@ Running: Because I love eating, I also enjoy running regularly a few times a wee
 
 Reading: In order to get down time from watching dramas, movies and Netflix, or from working on my PC/laptop and constant looking at my phone, I enjoy reading fictional/non fictional books of interest on my kindle.
 
+![image](https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

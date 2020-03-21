@@ -174,6 +174,35 @@ I believe the above factors will contribute to good dynamics in a team with my d
   <img width="800" height="350" src="https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
 </p>                                     
 
+### Overview:
+
+I am passionate about travel and food. Travelling and eating out has become an increasingly normal part of our lives. As I take on new experiences I have learnt to admire different cultures, customs and developed diverse palettes. Like most people, I want to be able to travel and eat more delicious food. 
+
+In the past generations, travel wasn’t as common as it is now, all family members young and old go on worldwide travel. It's no longer rare or special to go abroad. 
+
+Especially living and working in HK, it has exposed me to diversity in an Asian community, that has a completely different life style to what I am use to back home in Sydney. 
+
+### Motivation: 
+
+One consistent topic we all talk about is travel and food recommendations. In our ever so busy lives, coping with stress of working to pay the bills or studying to use our brains, and to be a dutiful mother, father, daughter or son in family obligations, travelling and eating good food is not a luxury as it used to be before, it's become quite normal part of our lives. It has also created higher level of standards in food, service and experience. 
+
+Another important thing to flag is that travelling to other countries like Taipei, Singapore, Japan, Korea and Greater China is so easy, can be cheap, and close by distance. Although, this may be my opinion because I live in HK which is quite central in Asia, distance now is not a big factor as long haul to Europe and US for example is quite affordable and feasible. 
+
+Thus over the years – Instagram, Blogging, YouTube, Mukbangs, for example gives us these experiences which can be shared around the world. The abundance of social media introduces new fads and popular must see and eats. I would hate to have missed a must eat or sight that is popular and a gem within the locals. 
+
+I not only want to know what's near me or in this area, I want to see whether there was blogs, Instagram posts, ppl who have bothered to write about these places or eats not through google only but  through the various social media trends. 
+
+Key point is Especially if people I follow have checked in or blogged, then I would want to know and experience it for myself. 
+
+I believe my idea of an app that brings to you the ease of searching for a city, lists all nearby restaurants and sites but also highlights recommendations or experiences by bloggers, youtubers, mukbangers, and instagrammers. I feel this would be an added bonus and feature that will lure people to use my app over others in the market.  
+
+I also like to be organized when I travel and having my own itinerary builder within the app would make it so much more easier and convenient to store and access the information.
+
+Stats as below Increase Spending trend of travelling, (10) Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
+
+
+
+
 Footnote
 
 <a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f

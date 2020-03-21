@@ -195,9 +195,7 @@ I also like to be organized when I travel and having my own itinerary builder w
 
 ![Stats](https://user-images.githubusercontent.com/62459754/77229202-6f686d00-6bc7-11ea-92e5-15cf6642aa6c.jpg)
 
-</br>
 Stats: Increase Spending trend of travelling<sup>[10](#myfootnote10)</sup> Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
-</br>
 
 ![image](https://user-images.githubusercontent.com/62459754/77231972-30dbae00-6bd9-11ea-9ce0-c7deafc2f30d.jpg)
 

@@ -95,7 +95,7 @@ Trouble shooting and problem solving skills I believe will come with experience,
 * Open Source Code
 * These expertise skills I hope can be learned within the course or enroll in courses specific to the skill like the below: 
 1. RMIT<sup>[2](#myfootnote2)</sup>,<sup>[3](#myfootnote3)</sup> - [AI Programming with Python](https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104) or [Scripting language](https://www.open.edu.au/subjects/rmit-university-scripting-language-programming-rmi-cpt223)  
-2. Udemy<sup>[4](#myfootnote4)</sup> [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/ )
+2. Udemy<sup>[4](#myfootnote4)</sup> [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
 3. Udemy<sup>[5](#myfootnote5)</sup> [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
 4. Udemy<sup>[6](#myfootnote6)</sup> [Perl Courses](https://www.udemy.com/topic/perl/)
 

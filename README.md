@@ -340,3 +340,6 @@ I hope that the app will provide users with a joy of exploring up to date and n
 <a name="myfootnote17">17</a>: Codelabs, viewed 20 March 2020, https://codelabs.developers.google.com/?cat=Flutter<br/>
 
   
+<p align="center">
+  <img src="https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg" width="850" title="Github Logo">
+</p>

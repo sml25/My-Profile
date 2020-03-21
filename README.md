@@ -147,38 +147,28 @@ Therefore, in groups I am a team player that will contribute and participate as 
 
 ## Skills Self Assessment
 
+![Skills](https://user-images.githubusercontent.com/62459754/77228666-d126d800-6bc3-11ea-9f64-0e87e76b11d6.png)
 
+[SkillsAssessment.pdf](https://github.com/sml25/My-Profile/files/4363112/SkillsAssessment.pdf)
 
 **• How should you take this into account when forming a team?**
 
-
-
-Forming a team requires different roles to work cohesively and cooperatively to achieve the same goal through excellent team work. It is good from the get go, that all members of the team  
-
-Identify and express their expectations openly and  everyone in the team is allocated clear concise responsibilities with deadlines.  
-
-
+Forming a team requires different roles to work cohesively and cooperatively to achieve the same goal through excellent team work. It is good from the get go, that all members of the team identify and express their expectations openly and everyone in the team is allocated clear concise responsibilities with deadlines.  
 
 Therefore, what this test meant to me when form a team, I would take into account the below factors about the team and myself:
 
-Teams needs a leader, a trusted leader that can achieve goals. From the tests, as I am Altruist, I work thrive under a great, intelligent, persuasive and and inspiring leader
+* Teams needs a leader, a trusted leader that can achieve goals. From the tests, as I am Altruist, I work thrive under a great, intelligent, persuasive and and inspiring leader
+* Structure and organization is important and through team work, I will be a good influence to other team members by encouraging regular calls and updates, as I am a people person and need open communication
+* Team dynamics - It would be good to get a mix of characters, therefore we can leverage the different skills and experience in order to utilize our advantages. 
+* I am empathetic, poses higher emotional intelligence, therefore am flexible and understanding 
 
-Structure and organization is important and through team work, I will be a good influence to other team members by encouraging regular calls and updates, as I am a people person and need open communication
-
-Team dynamics - It would be good to get a mix of characters, therefore we can leverage the different skills and experience in order to utilize our advantages. 
-
-I am empathetic, poses higher emotional intelligence, therefore am flexible and understanding 
-
-From the Skills Assessment test (3) my listening skills were just average, I believe I can improve my listening skills since I get along well with teams
-
-
+From the Skills Assessment test (9) my listening skills were just average, I believe I can improve my listening skills since I get along well with teams
 
 I believe the above factors will contribute to good dynamics in a team with my dedication and positive, energetic personality. 
 
-## Skills Assessment
 
 
-[SkillsAssessment.pdf](https://github.com/sml25/My-Profile/files/4363112/SkillsAssessment.pdf)
+
 
 Footnote
 

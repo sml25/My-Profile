@@ -283,6 +283,36 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 * Calendar view, that displays public holidays, which is useful in planning and logs your trips and sync to outlook feature 
 
 
+### Draw backs & Obstacles: 
+
+1. Will people really link their blogs, youtubers (mukbangs), Instagram to my APP? What will they get out of it? 
+2. Is it too niche? Only people interested or travelling to Korea will use it 
+3. Are the restaurants comprehensive. I need to do more research on this 
+4. Up to date updates of restaurants closing etc 
+5. Have interesting topics of interests for must buys sites 
+6. APP needs to be fast and stable, users will not got back to APPs if they consistently have loading issues 
+
+### Commercialization: 
+
+The app can earn money from advertisements from an array of industries: 
+
+* F&B 
+* Hotels 
+* Restaurants, airlines, tourism sites 
+* Korean language school courses 
+* Can cater for local advertisements of Korean foods/restaurants in your country, as long as you turn on Location settings 
+
+### Outcome: 
+
+**The below lists the values of what the app is ultimately wanting to achieve**
+
+* Linking to active Social Media accounts - It's another method for social media users to get more views, they expand their market and make more money. They will become more well known and could even get endorsements to promote from corporations
+* Centralized one source to get all your information on the must dos in Korea, save time and efficiency 
+* Added bonus to view by trend by active social media profile users feedback 
+* Introduce the general public to Korea for those not so well acquainted with this country 
+* Key is voting and rating as this provides the feedback from the general public 
+* Not only useful for building a personal itinerary but just to keep abreast of the what's popular and new in Korea 
+* I hope that the app will provide users with a joy of exploring up to date and new experiences of Korea and can make their trip a wonderful journey, wanting to come back for more. Incorporating private data and utilizing the power of the web with the latest and most up to date technologies.
 
 
 Footnote

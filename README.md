@@ -1,6 +1,7 @@
 ## Personal Information 
 
-![Profile Pic](https://unsplash.com/photos/HD8KlyWRYYM)
+![https://unsplash.com/photos/HD8KlyWRYYM](src)
+
 
 Name: Kyla Ng 
 

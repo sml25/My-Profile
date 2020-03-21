@@ -106,11 +106,9 @@ Acquiring technical skills in -  
 
 # Personal Profile
 
-<br><br>
+## Myers-Briggs Type Indicator (MBTI)
 
 ![ISFJ-A](https://user-images.githubusercontent.com/62459754/77227870-31b31680-6bbe-11ea-953b-3f5775e1b8c1.png)
-
-## Myers-Briggs Type Indicator (MBTI)
 
 **•What do the results of these tests mean for you?**
 
@@ -123,6 +121,9 @@ It really made me think that about how I could improve, grow and accept my flaws
 I believe the most important take away from these results is that based on our likes, morals, preferences it grounds us and allows us to grow, work on the best method of communication and also awakens us to change. 
 
 ## TestColor
+
+![TestColor](https://user-images.githubusercontent.com/62459754/77228323-70969b80-6bc1-11ea-9398-b5e5c20c268f.png)
+
 
 **• How do you think these results may influence your behavior in a team?**
 
@@ -141,43 +142,39 @@ Testcolor results had me sway more to being extrovert and I believe that is bec
 
 Because I observe, listen, am a team player and like to create a positive friendly environment and I identify with the above listed. I believe these traits will influence the team with good energy, contribute to a friendly open environment. As I may not have the necessary skills but I will complete and deliver the required work taking in and giving feedback along the way. 
 
-Therefore, in groups I am a team player that will contribute and participate as expected through me listening to others, taking on the work load giving my feedback and bring positive energy, in any situation. 
+Therefore, in groups I am a team player that will contribute and participate as expected through me listening to others, taking on the work load giving my feedback and bring positive energy, in any situation.
 
-##TestColor
 
-![TestColor](https://user-images.githubusercontent.com/62459754/77228323-70969b80-6bc1-11ea-9398-b5e5c20c268f.png)
-
-​• How do you think these results may influence your behavior in a team? 
+## Skills Self Assessment
 
 
 
-My personality trait which resonates across the 3 test are: 
+**• How should you take this into account when forming a team?**
 
 
 
-Introverted yet can be social 
+Forming a team requires different roles to work cohesively and cooperatively to achieve the same goal through excellent team work. It is good from the get go, that all members of the team  
 
-Observant and listen well to all points of view, therefore a good collaborator and am empathetic 
-
-Accommodating, easygoing and carefree attitude 
-
-Don't like conflict, unfairness, but will definitely speak up when needed 
-
-Stability and being comfortable and having positive energy is important 
-
-Don't like negativity, overcoming problems and finding solutions and working with likewise ppl connects me. Although, even if not, can get along with people along as there is open communication
-
-As seen in TestColor (2) and my results as below, I get things done and find whatever means to achieve goals
-
-Testcolor results had me sway more to being extrovert and I believe that is because i can somewhat be extrovert if need be 
+Identify and express their expectations openly and  everyone in the team is allocated clear concise responsibilities with deadlines.  
 
 
 
-Because I observe, listen, am a team player and like to create a positive friendly environment and I identify with the above listed. I believe these traits will influence the team with good energy, contribute to a friendly open environment. As I may not have the necessary skills but I will complete and deliver the required work taking in and giving feedback along the way. 
+Therefore, what this test meant to me when form a team, I would take into account the below factors about the team and myself:
+
+Teams needs a leader, a trusted leader that can achieve goals. From the tests, as I am Altruist, I work thrive under a great, intelligent, persuasive and and inspiring leader
+
+Structure and organization is important and through team work, I will be a good influence to other team members by encouraging regular calls and updates, as I am a people person and need open communication
+
+Team dynamics - It would be good to get a mix of characters, therefore we can leverage the different skills and experience in order to utilize our advantages. 
+
+I am empathetic, poses higher emotional intelligence, therefore am flexible and understanding 
+
+From the Skills Assessment test (3) my listening skills were just average, I believe I can improve my listening skills since I get along well with teams
 
 
 
-Therefore, in groups I am a team player that will contribute and participate as expected through me listening to others, taking on the work load giving my feedback and bring positive energy, in any situation. 
+I believe the above factors will contribute to good dynamics in a team with my dedication and positive, energetic personality. 
+
 
 Footnote
 

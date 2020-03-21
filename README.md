@@ -1,4 +1,4 @@
-## Personal Information 
+# Personal Information 
 
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
 
-## Interest in IT
+# Interest in IT
 
 **What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).** 
 
@@ -58,7 +58,7 @@ I found the Online University Australia (OUA) site and it was very easy to use a
 After graduating from the undergraduate Bachelor of Information Technology course I expect to have learnt the skills and knowledge on IT infrastructure, environments, process and delivery of developing, maintaining and growing a solution. I would also like to know more about the specialized diverse fields of IT on big data, AI, automation, corporate, banking finance solutions through to corporate and personal use e.g. apps and gaming etc. Ultimately, I would like to be specialized in an area of IT and be able to work in IT related role in the future. 
 
 
-## Ideal Job
+# Ideal Job
 
 
 ![GetImage](https://user-images.githubusercontent.com/62459754/77226942-0a0c8000-6bb7-11ea-9430-c0347a74cb80.png)
@@ -104,22 +104,44 @@ Acquiring technical skills in -  
 3. Udemy (5) [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
 4. Udemy (6) [Perl Courses](https://www.udemy.com/topic/perl/)
 
-
-## Personal Profile
+# Personal Profile
 
 <br><br>
 
 ![ISFJ-A](https://user-images.githubusercontent.com/62459754/77227870-31b31680-6bbe-11ea-953b-3f5775e1b8c1.png)
 
+## Myers-Briggs Type Indicator (MBTI)
 
+**•What do the results of these tests mean for you?**
 
+The test results allowed me to understand myself more and made me realize there are likewise people in this world and what percentage bracket I represented. I was thus interested to know what my family and friends MBTI was. 
 
+I came to a realization that knowing your personality and knowing others helps with the relationship and communication method. 
 
+It really made me think that about how I could improve, grow and accept my flaws. I actually took the test a few times, to see if I would get the same results and I did. I found especially the Myers-Brigg test (7) [My MBTI](https://www.16personalities.com/profiles/5a09688ae1be3) interesting, and I was able to explore my character within my strengths and weaknesses, Romantic Relationships, Friendships, Parenthood, Career Paths and Work place habits, which are all areas of interest. The sections were not too long to read and concise. 
 
+I believe the most important take away from these results is that based on our likes, morals, preferences it grounds us and allows us to grow, work on the best method of communication and also awakens us to change. 
 
+## TestColor
 
+**• How do you think these results may influence your behavior in a team?**
 
+My personality trait which resonates across the 3 test are: 
 
+* Introverted yet can be social 
+* Observant and listen well to all points of view, therefore a good collaborator and am empathetic 
+* Accommodating, easygoing and carefree attitude 
+* Don't like conflict, unfairness, but will definitely speak up when needed 
+* Stability and being comfortable and having positive energy is important 
+* Don't like negativity, overcoming problems and finding solutions and working with likewise ppl connects me. Although, even if not, can get along with people along as there is open communication
+
+As seen in [TestColor](https://www.testcolor.com/) (8) and my results as below, I get things done and find whatever means to achieve goals
+
+Testcolor results had me sway more to being extrovert and I believe that is because i can somewhat be extrovert if need be 
+
+Because I observe, listen, am a team player and like to create a positive friendly environment and I identify with the above listed. I believe these traits will influence the team with good energy, contribute to a friendly open environment. As I may not have the necessary skills but I will complete and deliver the required work taking in and giving feedback along the way. 
+
+Therefore, in groups I am a team player that will contribute and participate as expected through me listening to others, taking on the work load giving my feedback and bring positive energy, in any situation. 
 
 Footnote
 

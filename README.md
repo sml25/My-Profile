@@ -101,7 +101,21 @@ Acquiring technical skills in -  
 3. Udemy (5) [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
 4. Udemy (6) [Perl Courses](https://www.udemy.com/topic/perl/)
 
-test<sup>1</sup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footnote
 
 <a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f
 

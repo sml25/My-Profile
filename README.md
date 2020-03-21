@@ -1,8 +1,30 @@
-## Welcome to GitHub Pages
+## Personal Information 
 
-You can use the [editor on GitHub](https://github.com/sml25/myprofile-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Name: Kyla Ng 
+
+Email: kng@rmit.edu.au 
+
+Nationality: Australian 
+
+Culture: Chinese 
+
+Education: University of Sydney / University of New England - BA (deferred my studies) 
+
+Languages Spoken: English, Cantonese, Mandarin, Korean (Basic) 
+
+Interests:  
+
+Wine – Completed level 1 AWSEC to get the foundation on wine in order to expand my current knowledge and tastes across different grapes, regions and types of wine to refine my preferences and to be able recognize the wide choices available.
+
+Korean culture – My family can speak Korean and therefore I was influenced with Korean culture at a young age and love Kdramas and Kpop, as it was part of my life growing up.
+
+Travel – Since moving to HK, I have become to love to travel more as HK is quite central to other Asian counties and even travel to Europe and US is quite affordable. Frequent travelling is a big part of HK people's lives, due to the location and competitive affordable pricing available. 
+
+Running: Because I love eating, I also enjoy running regularly a few times a week to keep in shape. 
+
+Reading: In order to get down time from watching dramas, movies and Netflix, or from working on my PC/laptop and constant looking at my phone, I enjoy reading fictional/non fictional books of interest on my kindle.
 
 ### Markdown
 

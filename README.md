@@ -66,7 +66,7 @@ Site: [Cloud Engineer](https://www.seek.com.au/job/41136695?type=standout#search
 
 **• A description (in your own words) of the position, and particularly what makes this position appealing to you.** 
 
-This job (1) is appealing and of interest to me because the employer is a leading financial services organization. My current job is with a financial services provider so I have background and knowledge in the industry.
+This job <sup>[1](#myfootnote1)</sup> is appealing and of interest to me because the employer is a leading financial services organization. My current job is with a financial services provider so I have background and knowledge in the industry.
 
 Organizations are moving to cloud based servers vs their own private company servers due to general maintenance and hosting security. The job sounds challenging and interesting as you are part of the team that designs, deploys and migrate applications onto the cloud.  
 
@@ -101,7 +101,9 @@ Acquiring technical skills in -  
 3. Udemy (5) [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
 4. Udemy (6) [Perl Courses](https://www.udemy.com/topic/perl/)
 
+test<sup>1</sup>
 
+<a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f
 
 
 ### Markdown

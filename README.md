@@ -105,7 +105,6 @@ Acquiring technical skills in -  
 4. Udemy (6) [Perl Courses](https://www.udemy.com/topic/perl/)
 
 <br><br>
-
 ## Personal Profile
 
 <br><br>

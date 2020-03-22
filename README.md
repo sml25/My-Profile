@@ -199,7 +199,6 @@ Stats: Increase Spending trend of travelling<sup>[10](#myfootnote10)</sup> Sourc
 
 
 <br/>
-<br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62459754/77231972-30dbae00-6bd9-11ea-9ce0-c7deafc2f30d.jpg" width="850" title="Github Logo">

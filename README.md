@@ -25,7 +25,7 @@
 
 <br><br>
 
-![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
+![compchips](https://user-images.githubusercontent.com/62459754/77243053-61a2fe00-6c40-11ea-9cfc-94d6ae0cca61.png)
 
 # Interest in IT
 

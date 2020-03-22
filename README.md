@@ -269,7 +269,7 @@ Actions using actions.xml in your APK, built in intense search features 
 There are a lot of resources available on the website.
 Software and hardware are via Flutter using Dart code.
 
-![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
+![compchips](https://user-images.githubusercontent.com/62459754/77243053-61a2fe00-6c40-11ea-9cfc-94d6ae0cca61.png)
 
 Extra Feature called **"build your itinerary"** which can be a private or public schedule which you can share with other users especially useful for people going on the same trip, or it can just be an itinerary you want to share with friends or acquaintances in general. I am always asked by friends and colleague to send my MUST EAT AND DOS LIST.  
 

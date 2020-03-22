@@ -326,7 +326,7 @@ I hope that the app will provide users with a joy of exploring up to date and n
 <br/>
 **Footnote**
 
-<a name="myfootnote1">1</a>: Seek, Viewed 20 Marrch, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f<br/>
+<a name="myfootnote1">1</a>: Seek, Viewed 20 March, https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f<br/>
 <a name="myfootnote2">2</a>: RIMT, viewed 21 March 2010, https://online.rmit.edu.au/course/sc-programming-data-science-python-dat104<br/>
 <a name="myfootnote13">3</a>: RIMT, viewed 21 March 2010, https://www.open.edu.au/subjects/rmit-university-scripting-language-programming-rmi-cpt223<br/>
 <a name="myfootnote4">4</a>:Udemy, viewed 21 March 2020,  https://www.udemy.com/course/complete-python-bootcamp/<br/>

@@ -175,7 +175,7 @@ I am passionate about travel and food. Travelling and eating out has become an i
 
 In the past generations, travel wasn’t as common as it is now, all family members young and old go on worldwide travel. It's no longer rare or special to go abroad. 
 
-Especially living and working in HK, it has exposed me to diversity in an Asian community, that has a completely different life style to what I am use to back home in Sydney. 
+Especially living and working in HK, it has exposed me to diversity in an Asian community, that has a completely different life style to what I am used to back home in Sydney. 
 
 ### Motivation: 
 
@@ -311,7 +311,7 @@ Extra Feature called **"build your itinerary"** which can be a private or publi
 **The below lists the values of what the app is ultimately wanting to achieve**
 
 * Linking to active Social Media accounts - It's another method for social media users to get more views, they expand their market and make more money. They will become more well known and could even get endorsements to promote from corporations
-* Centralized one source to get all your information on the must dos in Korea, save time and efficiency 
+* Centralized one source to get all your information on the must dos in Korea, save time and efficiences 
 * Added bonus to view by trend by active social media profile users feedback 
 * Introduce the general public to Korea for those not so well acquainted with this country 
 * Key is voting and rating as this provides the feedback from the general public 
